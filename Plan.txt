@@ -1,0 +1,6 @@
+Create a textmap using various resposes from the model, finally the output from the list and textmap should be printed out 
+
+26-01-2023
+>Focus on building the main model rn, the appearance of the output is fixed, the only problem currently is how the tkinter program will
+fit into the main file but I will figure it out
+>Try to make a webpage or a good looking front-end for the python project and maybe not a tkinter file.
