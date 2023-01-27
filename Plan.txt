@@ -4,3 +4,5 @@ Create a textmap using various resposes from the model, finally the output from 
 >Focus on building the main model rn, the appearance of the output is fixed, the only problem currently is how the tkinter program will
 fit into the main file but I will figure it out
 >Try to make a webpage or a good looking front-end for the python project and maybe not a tkinter file.
+>Try to make the code self sustainable, ie, add the output to the examples
+
