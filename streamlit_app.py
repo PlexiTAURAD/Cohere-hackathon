@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 
 data = pd.DataFrame(
-     np.random.randn(3,100),
+     np.random.randn(100,3),
   
-  rows = ['a','b','c']
+  columns = ['a','b','c']
 
 
 
