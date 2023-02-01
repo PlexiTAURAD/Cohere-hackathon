@@ -9,7 +9,7 @@ data = pd.DataFrame(
   columns = ['a','b','c']
 
 
-
+st.text_input("Enter Query")
 
 )
 
@@ -32,7 +32,9 @@ share -> watch
 
 data1 = pd.DataFrame({
 
-T1 : ['Chic','min','lou'],
+T1 : ['Chic','min','lou']'
+     
+
      'lat' : [41.868171, 44.979840, 38.257972, 39.030575],
      'lon' : [-87.667458,-93.272474,- 85.765187,-95.702548]
 
