@@ -29,3 +29,5 @@ share -> subscribe
 share -> watch
 }
 """)
+
+st.map()
