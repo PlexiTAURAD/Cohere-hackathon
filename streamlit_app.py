@@ -9,8 +9,6 @@ data = pd.DataFrame(
   columns = ['a','b','c']
 
 
-st.text_input("Enter Query")
-
 )
 
 st.line_chart(data)
