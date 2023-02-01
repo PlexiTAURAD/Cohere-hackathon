@@ -17,9 +17,9 @@ _hehehehehe_
 ''',True)
 
 d = {
-'dvffvd',
-  'dvdvfd',
-  'devfdvfdvf'
+"dvffvd",
+  "dvdvfd",
+  "devfdvfdv"
 
 
 
