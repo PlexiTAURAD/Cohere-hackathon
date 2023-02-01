@@ -28,4 +28,4 @@ like -> share
 share -> subscribe
 share -> watch
 }
-)
+""")
