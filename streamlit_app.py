@@ -14,4 +14,4 @@ st.markdown('''# GAY
 ** bold **
 _italics_
 
-''',TRUE)
+''',True)
