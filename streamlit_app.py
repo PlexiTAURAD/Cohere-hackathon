@@ -11,7 +11,7 @@ st.markdown('''# GAY
 ## LOL
 ### LMAO
 :moon: :sunglasses: <br>
-** bold **
-_italics_
+** lololollolol**
+_heheheheh_
 
 ''',True)
