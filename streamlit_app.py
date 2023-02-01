@@ -10,7 +10,8 @@ st.text('bcoz she gave birth to a pussy wussy')
 st.markdown('''# GAY
 ## LOL
 ### LMAO
-:moon: :sunglasses: 
+:moon: :sunglasses: <br>
 ** bold **
 _italics_
-''')
+
+''',TRUE)
