@@ -7,7 +7,7 @@ st.header("is")
 st.subheader("gay")
 
 st.text('bcoz she gave birth to a pussy wussy')
-st.markdown(''' #GAY
-##LOL
+st.markdown('''# GAY
+## LOL
 ### LMAO
 ''')
