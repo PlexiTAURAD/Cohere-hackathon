@@ -2,8 +2,14 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-A = [1,2,3,4,5,6,7,8]
-n = np.array(A)
-nd = n.reshape((2,4))
+data = pd.DataFrame(
+     np.rndm.randm(100,3)
+  
+  columns = ['a','b','c']
 
-st.table(A)
+
+
+
+)
+
+st.line_chart(data)
