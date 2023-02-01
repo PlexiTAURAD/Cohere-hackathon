@@ -16,10 +16,12 @@ _hehehehehe_
 
 ''',True)
 
-st.write('''#fmkle
-         ##vfdgdfg
-         ###dgdgdsg
-         ''')
+d = {
+'dvffvd','dvdvfd','devfdvfdvf'
+
+
+
+}
 
 
 
