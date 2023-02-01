@@ -18,6 +18,6 @@ st.area_chart(data)
 st.bar_chart(data)
 chart = alt.Chart(data).mark_circle().encode(
 x = 'a',y= 'b'
-st.altair_chart(chart,use_container_width = True)
+
 
 )
