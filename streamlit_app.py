@@ -1,23 +1,7 @@
 import streamlit as st
 
-st.title("Hello Streamlit")
+st.title("your mom")
 
-st.header("Header")
+st.header("is")
 
-st.subheader("Sub header")
-
-st.text("Like this video and subscribe to the channel")
-
-st.markdown(""" #  gfrg
-## h2 tag
-### h3 tag
-:moon:<br>
-:sunglasses:
-** bold **
-_ italics _
-""",True)
-
-st.latex(r''' a + ar + a r^2 + a r^3 + \cdots + a r^{n-1} =
-     \sum_{k=0}^{n-1} ar^k =
-     a \left(\frac{1-r^{n}}{1-r}\right)''')
-
+st.subheader("gay")
