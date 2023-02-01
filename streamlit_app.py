@@ -21,3 +21,11 @@ x = 'a',y= 'b'
 
 
 )
+st.graphviz_chart("""
+digraph{
+watch -> like
+like -> share
+share -> subscribe
+share -> watch
+}
+)
