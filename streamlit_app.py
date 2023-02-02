@@ -48,3 +48,11 @@ data1 = pd.DataFrame({
 
 if st.button("bleh"):
       st.map(data1)
+      
+      
+      
+name = st.text_input('Enter your name')
+st.write('your name is ',name)
+      
+address = st.text_input('Enter your address')
+st.write('your address is ',address)
