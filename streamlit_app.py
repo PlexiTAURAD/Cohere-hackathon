@@ -62,6 +62,6 @@ st.write('your address is ',address)
 st.date_input('enter the date')
 st.time_input('enter the time')
  
-  A = st.checkbox('testing')
+A = st.checkbox('testing')
 if A == True :
 st.write('yes')
