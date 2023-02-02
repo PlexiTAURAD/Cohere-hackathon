@@ -46,6 +46,5 @@ data1 = pd.DataFrame({
 
 })
 
-st.button("bleh")
-
-st.map(data1)
+if st.button("bleh"):
+      st.map(data1)
