@@ -46,5 +46,6 @@ data1 = pd.DataFrame({
 
 })
 
+st.button("bleh")
 
 st.map(data1)
