@@ -61,3 +61,4 @@ st.write('your address is ',address)
 
 st.date_input('enter the date')
 st.time_input('enter the time')
+st.checkbox('testing')
