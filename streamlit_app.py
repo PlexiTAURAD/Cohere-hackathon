@@ -54,5 +54,5 @@ if st.button("bleh"):
 name = st.text_input('Enter your name')
 st.write('your name is ',name)
       
-address = st.text_input('Enter your address')
+address = st.text_area('Enter your address')
 st.write('your address is ',address)
