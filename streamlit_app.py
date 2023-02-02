@@ -56,3 +56,8 @@ st.write('your name is ',name)
       
 address = st.text_area('Enter your address')
 st.write('your address is ',address)
+
+
+
+st.date_input('enter the date')
+st.time_input('enter the time')
