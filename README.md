@@ -1,6 +1,6 @@
 # Cohere-hackathon
 Repository of my project for the cohere hackathon
 
-The idea of my project is to create a customer support program which can guide a customer, connect them to the required department, extract important data from the interaction and also summarise the interaction between the customer and the AI. I would also want to automatically send an email to the customer saying that their report is being processed.
+This project aims to help companies save money and time by automating their customer support systems using Cohere's API
 
-Thw output will be in JSON. This project will display a bar graph plotting the confidence of the model for each option. It will also display the output as the option with the most confidence
+The google colab link is https://colab.research.google.com/github/PlexiTAURAD/Cohere-hackathon/blob/main/model.ipynb#scrollTo=_Do3zkhu-yjy
