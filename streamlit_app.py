@@ -1,20 +1,18 @@
 import streamlit as st
-import webbrowser
 
 st.title("ODR AI ASSISTANTS")
 
-input_text = st.text_input("Enter your text:")
-output = 0
+first_input = st.text_input("Enter your text:")
 
-if input_text:
-    # Perform processing on input_text here to get the output
-    output = 1
+if first_input:
+    result = "Output"
+    output = st.write(result)
 
-if output == 0:
-    additional_input = st.text_input("Additional Input:")
+    if output == 0:
+        st.write("Please provide additional information:")
+        second_input = st.text_input("Additional Information:")
 
-if output == 1:
-    st.write("Output:", output)
-
-if st.button("Analytics"):
-    webbrowser.open_new_tab("https://www.example.com/bar-graph")
+if first_input or second_input:
+    st.write("Analysis button")
+    if st.button("Analytics"):
+        st.write("Displaying bar graph")
